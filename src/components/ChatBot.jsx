@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 import { FaRobot, FaTimes, FaPaperPlane } from "react-icons/fa";
-import { FaGlobeAsia } from "react-icons/fa";
 import { RiRobot2Line } from "react-icons/ri";
 
 <RiRobot2Line size={60}  color="white " />

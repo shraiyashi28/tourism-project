@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import Footer from "./Footer";
 import guiphoto from "./assets/pic.png";
 import img1 from "./assets/pic.png";
 import img2 from "./assets/img2.webp";

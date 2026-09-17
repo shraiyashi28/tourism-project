@@ -1,7 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Footer from "./Footer";
-import Header from "./Header";
 import balib from "./balib.webp";
 import img2 from "./img2.webp";
 import img3 from "./img3.jpg";
