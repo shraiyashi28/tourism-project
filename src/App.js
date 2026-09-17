@@ -7,7 +7,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 import Home from "./Home";
-import Tourist_01 from "./Tourist_01";
+import Tourist01 from "./Tourist_01";
 import Tourist02 from "./Tourist02";
 import Tourist03 from "./assets/Tourist03";
 import Carousel from "./assets/Carousel";
@@ -60,7 +60,7 @@ function App() {
                 className="min-h-screen"
               >
                 <SwiperSlide>
-                  <Tourist_01 />
+                  <Tourist01 />
                 </SwiperSlide>
 
                 <SwiperSlide>
